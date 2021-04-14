@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marcus D. Hill"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate, University of Georgia"
+  bio              : "Ph.D. Candidate, Computer Science"
   location         : "Athens, Ga"
   employer         :
   pubmed           :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
