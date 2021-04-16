@@ -2,7 +2,7 @@
 title: "SolarView: Georgia Solar Adoption in Context"
 collection: publications
 permalink: /publication/2018-12-07-solarview-georgia-solar-adoption-in-context
-excerpt: 'This paper describes the data collection process to ceate the SolarView database, a resource that would help researchers interested in the context underlying solar adoption on the local scale of governance/'
+excerpt: 'This paper describes the data collection process to ceate the SolarView database, a resource to help researchers understand solar adoption in Georgia.'
 date: 2018-12-07
 venue: 'Data'
 paperurl: 'https://doi.org/10.3390/data3040061'
