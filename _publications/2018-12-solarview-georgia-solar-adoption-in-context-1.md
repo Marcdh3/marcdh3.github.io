@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2009-10-01
 venue: 'Data'
 paperurl: 'https://www.mdpi.com/2306-5729/3/4/61'
-citation: 'Hill, M. (2009). &quot;SolarView: Georgia Solar Adoption in Context.&quot; <i>Data</i>. 3(g).'
+citation: 'Hill, M. (2009). &quot;SolarView: Georgia Solar Adoption in Context.&quot; <i>Data</i>. 3(4).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
