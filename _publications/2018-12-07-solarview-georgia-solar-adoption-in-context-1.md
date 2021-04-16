@@ -1,9 +1,9 @@
 ---
 title: "SolarView: Georgia Solar Adoption in Context"
 collection: publications
-permalink: /publication/2018-12-solarview-georgia-solar-adoption-in-context
+permalink: /publication/2018-12-07-solarview-georgia-solar-adoption-in-context
 excerpt: 'This paper describes the data collection process to ceate the SolarView database, a resource that would help researchers interested in the context underlying solar adoption on the local scale of governance/'
-date: 2018-12
+date: 2018-12-07
 venue: 'Data'
 paperurl: 'https://www.mdpi.com/2306-5729/3/4/61'
 citation: 'Tidwell, J.H., Tidwell, A., Nelson, S., Hill, M. (2018). &quot;SolarView: Georgia Solar Adoption in Context.&quot; <i>Data</i>. 3(4).'
