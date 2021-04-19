@@ -1,5 +1,5 @@
 ---
-title: "Ornet-a python toolkit to model the diffuse structure of organelles as social networks"
+title: "Ornet - a python toolkit to model the diffuse structure of organelles as social networks"
 collection: publications
 permalink: /publication/2010-03-18-Ornet-a-python-toolkit-to-model-the-diffuse-structure-of-organelles-as-social-networks
 excerpt: 'OrNet is a python framework that models both the spatial and temporal morphology changes that organelles undergo as dynamic social networks.'
