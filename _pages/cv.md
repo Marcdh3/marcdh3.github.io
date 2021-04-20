@@ -6,5 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-  - /files/paper1.pdf
+  - /files/Marcus_Hill_CV.pdf
 ---
