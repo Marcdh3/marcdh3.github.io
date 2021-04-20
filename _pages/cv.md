@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-  - /files/paper1/pdf
+  - /files/paper1.pdf
 ---
 
 {% include base_path %}
