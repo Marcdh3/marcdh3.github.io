@@ -1,7 +1,7 @@
 ---
 title: "Data Structures for Data Science, Instructor of Record"
 collection: teaching
-type: "Undergraduate course"
+type: "CSCI 2725"
 permalink: /teaching/2021-spring-teaching-1
 venue: "University of Georgia, Computer Science"
 date: 2021-01-14
